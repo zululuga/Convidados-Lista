@@ -1,0 +1,4 @@
+Será necessário iniciar o servidor e colocar no arquivo inicial index.html, lá se encontra o menu contendo todos os links para as alterações propostas
+pela professora em sala de aula.
+
+alunos responsáveis: Marcos Vinicius, Leandro Silva, Lucas Daniel
